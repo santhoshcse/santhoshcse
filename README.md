@@ -14,6 +14,13 @@
 * Real-time BI concepts.
 * Visualizing data in different charts/plots using JS/R/Python libraries.
 
+# About Repositories:
+- learnings
+- notes
+- reusable libraries
+- small projects
+- etc.,
+
 # Upcoming things to learn:
 - [ ] GraphQL
 - [ ] Statistics & Analytics related concepts to be implemented using JS/Python
