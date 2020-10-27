@@ -25,6 +25,6 @@
 - [ ] GraphQL
 - [ ] Statistics & Analytics related concepts to be implemented using JS/Python
 - [ ] Some utility projects to manage R/Python packages (offline)
-- [ ] ReaactJS
+- [ ] ReactJS
 - [ ] VueJS
 and many more...
